@@ -1,0 +1,25 @@
+_repo: Extracts-from-the-Writings-of-Bah--u-ll-h-and--Abdu-l-Bah--and-from-the-Letters-of-Shoghi-Eff__19291
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Universal House of Justice
+    gutenberg_agent_id: '8577'
+    url: http://www.gutenberg.org/2009/agents/8577
+description: ''
+gutenberg_issued: '2006-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19291'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'BP'
+- !lcsh 'Bahai Faith'
+title: Extracts from the Writings of Bahá'u'lláh and `Abdu'l-Bahá and from the Letters
+  of Shoghi Effendi and the Universal House of Justice on Scholarship
+url: http://www.gutenberg.org/ebooks/19291
